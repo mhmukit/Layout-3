@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'roboto' sans-serif;
+}
+img{}
+#slider{background-color: #5CBBFF;padding-top: 15px;padding-bottom: 15px;margin-left: 40px;margin-right: 40px;margin-top: 40px;border-bottom: 3px solid #5A646A14;}
+.container{width: 1100px;margin: auto;overflow: hidden;/*! padding-top: 22px; */}
+.menu{}
+.list{width: 518px;margin: 0 auto;}
+.list ul{text-transform: uppercase;}
+.list ul li{float: left;list-style: none;}
+.list ul li a{text-decoration: none;padding: 6px 8px;color: #eee;font-size: 12px;text-align: center;}
+.list ul li a img{width: 96px;height: 25px;}
+#flex{display: flex;}
+.left{background-color: #5CBBFF;width: 40%;margin-left: 40px;padding-bottom: 56px;margin-bottom: 40px;}
+.left img{max-width: 100%;padding-top: 146px;}
+.right{background-color: #0092FF;width: 60%;color: #eee;margin-right: 40px;padding-bottom: 20px;margin-bottom: 40px;}
+.right h1{font-size: 24px;margin-bottom: 15px;}
+.right p{float: left;}
+.right-content{width: 295px;margin: 0 auto;margin-top: 138px;}
+.form{width: 295px;margin: 0 auto;padding-top: 40px;}
+.form-content{}
+.form-content h1{}
+.form-content input{margin: 3px 0;padding: 11px 5px;width: 100%;}
+.submit {margin-top: 10px;}
+.submit input{padding: 10px 23px;text-transform: uppercase;color: #0092FF;background-color: white;border: none;}
+.submit input:hover{
+	background-color: #343B72;
+	color: #eee;
+}
+.right-footer{width: 330px;margin: 0 auto;margin-top: 61px;padding-left: 34px;margin-bottom: 36px;}
+.footer-list{overflow: hidden;}
+.social{}
+.social ul{list-style: none;}
+.social ul li{}
+.social ul li h4{}
+.social ul li a{text-decoration: none;color: #eee;font-size: 15px;float: left;padding: 0px 5px;}
